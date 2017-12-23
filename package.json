@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hakan-tugay/Simulations#readme",
   "dependencies": {
-    "commander": "^2.12.2"
+    "commander": "^2.12.2",
+    "lodash": "^4.17.4"
   }
 }
